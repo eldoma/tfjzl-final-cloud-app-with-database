@@ -21,7 +21,8 @@ pip install -U -r requirements.txt
 
 python manage.py makemigrations
 
-then python manage.py migrate
+Make sure everything OK, then 
+python manage.py migrate
 
 python manage.py runserver 0.0.0.0:8003
 
