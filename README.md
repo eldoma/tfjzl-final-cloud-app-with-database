@@ -28,3 +28,6 @@ python manage.py runserver 0.0.0.0:8003
 
 Code will be running on 
 http://127.0.0.1:8003/onlinecourse/
+
+Admin will be running on
+http://127.0.0.1:8003/admin
