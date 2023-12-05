@@ -1,5 +1,6 @@
 # tfjzl-final-cloud-app-with-database
 An onlinecourse app built with Python running on Django by IBM Developer Skills Network-IBM Back-End Professional Final Project
+Django Application Development with SQL and Databases, Lab 5.1
 
 Important Django commands on local VS Code:
 
