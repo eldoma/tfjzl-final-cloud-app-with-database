@@ -1,4 +1,16 @@
 # tfjzl-final-cloud-app-with-database
+
+ 
+Implementing a new course assessment feature. Plan and implement the improvements in the application; these improvements include:
+
+    Create Question, Choice, and Submission models
+    Create a new course object with exam related models using the admin site
+    Update the course details template to show questions and choices
+    Create a new exam result template to show the result of the submission
+    Create a new exam result submission view
+    Create a new view to display and evaluate exam result
+![Admin page](https://github.com/eldoma/tfjzl-final-cloud-app-with-database/blob/main/03-admin-site.png)
+
 An onlinecourse app built with Python running on Django by IBM Developer Skills Network-IBM Back-End Professional Final Project
 Django Application Development with SQL and Databases, Lab 5.1
 
