@@ -1,7 +1,8 @@
 # tfjzl-final-cloud-app-with-database
 
  
-Implementing a new course assessment feature. Plan and implement the improvements in the application; these improvements include:
+# Implementing a new course assessment feature. 
+## Plan and implement the improvements in the application; these improvements include:
 
     Create Question, Choice, and Submission models
     Create a new course object with exam related models using the admin site
@@ -39,8 +40,6 @@ python manage.py migrate
 
 python manage.py runserver 0.0.0.0:8003
 
-Code will be running on 
-http://127.0.0.1:8003/onlinecourse/
+Code will be running on <a href="http://127.0.0.1:8003/onlinecourse" target="_blank">here</a>
 
-Admin will be running on
-http://127.0.0.1:8003/admin
+Admin will be running on <a href="http://127.0.0.1:8003/admin" target="_blank">here</a>
