@@ -41,6 +41,7 @@ python manage.py migrate
 
 python manage.py runserver 0.0.0.0:8003
 
-Code will be running on <a href="http://127.0.0.1:8003/onlinecourse" target="_blank">here</a>
+Code will be running on [http://127.0.0.1:8003/onlinecourse](http://127.0.0.1:8003/onlinecourse) (Right-click to open in a new tab)
 
-Admin will be running on <a href="http://127.0.0.1:8003/admin" target="_blank">here</a>
+Admin will be running on [http://127.0.0.1:8003/admin](http://127.0.0.1:8003/admin) (Right-click to open in a new tab)
+
