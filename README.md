@@ -2,7 +2,7 @@
 
 ![Home page](https://github.com/eldoma/tfjzl-final-cloud-app-with-database/blob/main/home_page.png)
  
-# Implementing a new course assessment feature. 
+# Implement a new course assessment feature. 
 ## Plan and implement the improvements in the application; these improvements include:
 
     Create Question, Choice, and Submission models
@@ -18,28 +18,18 @@ Django Application Development with SQL and Databases, Lab 5.1
 
 Important Django commands on local VS Code:
 
-pip install --upgrade distro-info
-
-pip3 install --upgrade pip==23.2.1
-
-pip install django
-
-python -m pip install Pillow
-
-pip install virtualenv
-
- .\djangoenv\Scripts\activate
-
-python.exe -m venv djangoenv 
-
-pip install -U -r requirements.txt
-
-python manage.py makemigrations
-
-Make sure everything OK, then 
-python manage.py migrate
-
-python manage.py runserver 0.0.0.0:8003
+- pip install --upgrade distro-info
+- pip3 install --upgrade pip==23.2.1
+- pip install django
+- python -m pip install Pillow
+- pip install virtualenv
+- .\djangoenv\Scripts\activate
+- python.exe -m venv djangoenv 
+- pip install -U -r requirements.txt
+- python manage.py makemigrations
+- Make sure everything OK, then 
+- python manage.py migrate
+- python manage.py runserver 0.0.0.0:8003
 
 Code will be running on [http://127.0.0.1:8003/onlinecourse](http://127.0.0.1:8003/onlinecourse) (Right-click to open in a new tab)
 
