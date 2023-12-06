@@ -1,5 +1,6 @@
 # tfjzl-final-cloud-app-with-database
 
+![Home page](https://github.com/eldoma/tfjzl-final-cloud-app-with-database/blob/main/home_page.png)
  
 # Implementing a new course assessment feature. 
 ## Plan and implement the improvements in the application; these improvements include:
